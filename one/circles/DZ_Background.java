@@ -15,7 +15,8 @@ public class DZ_Background {
     protected void changeBackGroundColor() {
 
 
-        //WiP here should be a method that changes background color. Unfortunatelly, didn't have time to complete it.
+        //WiP here should be a method that changes background color.
+        // Unfortunatelly, didn't have time to complete it. 
 
 
 
