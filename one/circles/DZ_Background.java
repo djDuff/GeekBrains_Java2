@@ -9,9 +9,18 @@ public class DZ_Background {
             (int)(Math.random() * 255),
             (int)(Math.random() * 255)
     );
+    long currentTime = System.nanoTime();
 
 
-    void 
+    protected void changeBackGroundColor() {
+
+
+        //WiP here should be a method that changes background color.
+        // Unfortunatelly, didn't have time to complete it. 
+
+
+
+    }
 
 
 
